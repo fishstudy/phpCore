@@ -1,0 +1,59 @@
+PHP
+1： PHP7 和ＰＨＰ５　区别
+２：ＰＨＰ的设计模式
+    单例模式
+    工厂模式
+    策略模式
+    适配器模式
+    外观模式
+    原形模式
+    观察者模式
+    注册模式
+
+
+３：PHP的魔术方法
+   --construct
+   --destruct
+   --set
+   --get
+   --sleep
+   --wake
+   --call
+   --tostring
+   --clone
+   --invoke
+   --call_static
+   __autoload
+
+ MySQL：
+     慢查询： 
+         1 大数据分页
+         2 数据类型和SQL语句不匹配
+	     3 show process
+	     4 内存大 快速硬盘 CPU要求不是太高
+
+nginx:
+    限流模块
+
+    负载均衡
+           负载均衡 upstream  轮询 IPhash 制定权重
+
+    和Apache对比的优势
+    
+redis：
+         快照  RDB  短时间内的数据丢失
+         AOF
+        master  主服务器最好不要做持久化
+
+  
+安全：
+  
+  sql注入 pdo mysqli 
+
+  CSRF XSS
+  
+Linux：
+
+常用算法：
+
+
